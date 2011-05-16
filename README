@@ -1,0 +1,37 @@
+INTRODUCTION
+
+BitCoin Backup provides an easy, fast, and secure way to backup your BitCoin
+wallet to the BitCoin Backup cloud service. Using industry standard encryption
+technology (AES256), BitCoin Backup makes sure that your data is safe while also 
+making sure you'll never lose your BitCoins during a computer catastrophy.
+
+BITCOIN BACKUP LICENSE
+
+BitCoin Backup is open source software distributed under the terms of the MIT 
+Public License. The software, however, might not qualify as 'free software' 
+under certain definitions as it is written in a non-free language (RealBasic).
+
+You are free to use, modify, and distribute this software in any way you see 
+fit as long as you contribute any changes you make back to the community. It 
+would also be nice if you send the author your changes too so I can merge the 
+good stuff you're writing with the main project. The best way to do this is 
+by using git.
+
+WHY IS THIS THE ONLY FILE HERE?
+
+Because the software isn't done yet or really do a place where there's any 
+code worth committing. That will change over the next few days and this file 
+wil reflect those changes.
+
+HOW DO I GET IN TOUCH WITH THE AUTHOR?
+
+Pretty easily. Just email feeltherage@ymail.com. I also would be very 
+greatful for any donations you might decide to provide to help me keep 
+working on this project. I do not accept cash or Paypay. I only will 
+accept BitCoins since, after all, this is a BitCoin related project :-)
+
+Send donations to:
+
+17X9CFoq7pFoDDEdzjHVRZSZkQwVR8Zj1e
+
+Thank you in advance!
